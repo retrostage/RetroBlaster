@@ -6,3 +6,16 @@ The most recent versions, as well as old archived versions, will be posted here.
 For software zip files, click on the file and there should be a button that says "Download".
 
 For firmware hex files, you should be able to right click and select "Save link as...", and then save to your computer.
+
+
+# 3D PRINT FILES
+
+There is a screw cover that can be 3D printed to make it more comfortable to insert and remove cartridges from the
+RetroBlaster cartridge slots. These can be glued down over top of the screws to give the end-user a better place to
+press down on when inserting or removing carts.
+
+Requirements:
+0.2mm layer height
+0.4mm line width
+20% (or better) infill density
+
