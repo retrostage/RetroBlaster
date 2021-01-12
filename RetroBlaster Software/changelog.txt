@@ -1,0 +1,94 @@
+RetroBlaster 2.0 Software Changelog
+----------------------------
+
+----------------------------
+Version 2.0.7
+----------------------------
+NEW:
+- Added Sega Genesis SRAM writing for Blaster and original games
+- Added Turbo Grafx 16 / PC Engine game support
+
+FIXES:
+
+- fixed NES MMC4 header mismatch
+
+
+- fixed bug that wouldn't allow writing Sega games with odd ROM headers
+
+
+- added ".md" ROM extensions as one of the defaults for Sega Blaster
+
+
+
+- fixed annoying bug that was affecting SNES writing and dumping. Games
+
+like Super Metroid and Yoshi's Island (among others) now work
+
+
+----------------------------
+Version 2.0.6
+----------------------------
+- Fixed SNES Blaster issue that affected some HiROM games.
+- Added automatic SNES header correction. If a header is found on the ROM, it will remove it before programming to SNES Blaster.
+
+----------------------------
+Version 2.0.5
+----------------------------
+- Fixed SNES dumping issue that affected some LoROM games.
+
+
+----------------------------
+Version 2.0.4
+----------------------------
+- Fixed issue with ROM/SRAM dumping on SNES Blasters.
+
+
+----------------------------
+Version 2.0.3   
+----------------------------
+- 'N64 Blaster 2.0' EEPROM save writing and dumping added!
+- SNES cart ROM dumping, SRAM writing/dumping added.
+- Full 'SNES Blaster' product support added.
+- Partial 'Sega Genesis Blaster' product support added.
+- NES MMC4 Save dumping added.
+- 'NES MMC Blaster' product support added.
+
+
+----------------------------
+Version 2.0.2	
+----------------------------
+- Added more NES mappers - MMC2, MMC4, Color Dreams/Wisdom Tree, MHROM/GNROM, Camerica CodeMasters.
+- Added more GameBoy/GBC features:
+	1) can dump and write save games.
+	2) most mappers supported for dumping games.
+	3) automatic rom size calculations based on cart info.
+- Stability fixes.
+
+
+----------------------------
+Version 2.0.1
+----------------------------
+- Added ROM write support for NES, SNES, Sega Genesis, GameBoy, GBA Blasters.
+- Added game and SRAM save dumping support for NES, Sega Genesis, GBA carts.
+- Added SRAM save writing for NES and GBA.
+
+- New software interface adds: 
+1) GUI stable now and will not freeze during writing/dumping.
+2) Status bar updates progress as games write/dump.
+3) Tab interface instead of dropdown boxes, cleans up interface.
+4) Remembers last Tab you were in after closing program.
+
+- Removed built in Firmware updater, was not working on Windows 10 properly. Using Atmel FLIP 3.4.7 guarantees firmware updates work every time for WinXP-10.		
+
+
+----------------------------
+Version 2.0
+----------------------------
+- Initial software release. N64 Blaster and N64 Cart support only.
+
+-------------------------------------------------------
+-------------------------------------------------------
+RetroStage Computing
+(c) 2020
+-------------------------------------------------------
+-------------------------------------------------------
