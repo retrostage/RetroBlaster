@@ -11,18 +11,9 @@ NEW:
 FIXES:
 
 - fixed NES MMC4 header mismatch
-
-
 - fixed bug that wouldn't allow writing Sega games with odd ROM headers
-
-
 - added ".md" ROM extensions as one of the defaults for Sega Blaster
-
-
-
-- fixed annoying bug that was affecting SNES writing and dumping. Games
-
-like Super Metroid and Yoshi's Island (among others) now work
+- fixed annoying bug that was affecting SNES writing and dumping. Games like Super Metroid and Yoshi's Island (among others) now work
 
 
 ----------------------------
