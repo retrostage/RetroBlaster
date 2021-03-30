@@ -4,6 +4,11 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 Version 2.0.8
 ----------------------------
+- Fixed issue where some N64 FlashRAM games wouldn't dump their save files correctly. Requires firmware update to v2.5 or later.
+
+----------------------------
+Version 2.0.8
+----------------------------
 - Added the ability to force the COM port in the FILE menu. This fixes issues where the user has many different COM devices running, or is running a different language pack in Windows, and the RetroBlaster software was unable to determine which to use.
 
 ----------------------------
