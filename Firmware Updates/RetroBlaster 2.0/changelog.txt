@@ -2,6 +2,11 @@ RetroBlaster Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 2.5
+----------------------------
+- Fixed N64 FlashRAM dumping problem, all games should now dump correctly.
+
+----------------------------
 Version 2.4
 ----------------------------
 NEW:
