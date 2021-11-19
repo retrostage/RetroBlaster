@@ -2,14 +2,35 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
-Version 2.0.8
+Version 2.1.0
 ----------------------------
-- Fixed issue where some N64 FlashRAM games wouldn't dump their save files correctly. Requires firmware update to v2.5 or later.
+NEW for N64:
+- Automatic byte-swapping of ROM files
+- Automatic ROM size calculation for dumping games
+- Automatic save type detection for dumping saves
+- Option to override automatic ROM size detection for prototypes/unreleased games
+
+CHANGE for N64:
+- Remove old N64 Blaster support (2017 or earlier models).
+
+GBA:
+- fixed buttons that didn't do anything yet
+- fixed error that would happen when writing games that have non-standard GBA ROM file sizes.
+
+SNES:
+- Added multi-cart support for SNES Blasters (2021 hardware revision)
+
+
+----------------------------
+Version 2.0.9
+----------------------------
+- Fixed issue where some N64 FlashRAM games wouldn't dump their save files correctly. Requires firmware update v2.5 or later.
 
 ----------------------------
 Version 2.0.8
 ----------------------------
 - Added the ability to force the COM port in the FILE menu. This fixes issues where the user has many different COM devices running, or is running a different language pack in Windows, and the RetroBlaster software was unable to determine which to use.
+
 
 ----------------------------
 Version 2.0.7
@@ -21,9 +42,18 @@ NEW:
 FIXES:
 
 - fixed NES MMC4 header mismatch
+
+
 - fixed bug that wouldn't allow writing Sega games with odd ROM headers
+
+
 - added ".md" ROM extensions as one of the defaults for Sega Blaster
-- fixed annoying bug that was affecting SNES writing and dumping. Games like Super Metroid and Yoshi's Island (among others) now work
+
+
+
+- fixed annoying bug that was affecting SNES writing and dumping. Games
+
+like Super Metroid and Yoshi's Island (among others) now work
 
 
 ----------------------------
