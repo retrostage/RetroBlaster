@@ -2,6 +2,15 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.1
+----------------------------
+NEW for N64:
+- Automatic CIC and save type selection for writing to the N64 Blaster 2.01 board. No more switches!
+
+Fixes:
+- fixed bug in writing Sega Genesis games introduced in 2.1.0
+
+----------------------------
 Version 2.1.0
 ----------------------------
 NEW for N64:
