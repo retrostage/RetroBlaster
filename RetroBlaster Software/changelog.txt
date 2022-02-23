@@ -2,6 +2,23 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.2
+----------------------------
+NEW NES Mappers added:
+- Mapper 206 (MMC3 variant for Gauntlet, Karnov, others)
+- BNROM
+
+Fixes:
+GBA:
+- fixed GBA "not divisible by 131072 bytes" error, added auto-padding for odd file sizes.
+
+GBC:
+- fixed an error in handling 128KB SRAM for the GB Blasters (LSDJ versions). 
+
+SNES:
+- fixed error where the mapper type couldn't be determined due to long internal file names, which affected a number of titles being written to the SNES Blaster.
+
+----------------------------
 Version 2.1.1
 ----------------------------
 NEW for N64:
@@ -129,6 +146,6 @@ Version 2.0
 -------------------------------------------------------
 -------------------------------------------------------
 RetroStage Computing
-(c) 2021
+(c) 2020
 -------------------------------------------------------
 -------------------------------------------------------
