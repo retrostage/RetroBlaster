@@ -2,6 +2,13 @@ RetroBlaster Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 2.6
+----------------------------
+- Improved reliability of N64 EEPROM dumping
+- Added N64 GameShark dumping/writing
+- PCE/TG16 finalized for upcoming Turbo Blaster and HuCard adapter.
+
+----------------------------
 Version 2.5
 ----------------------------
 - Fixed N64 FlashRAM dumping problem, all games should now dump correctly.
@@ -54,6 +61,6 @@ Version 2.0b
 -------------------------------------------------------
 -------------------------------------------------------
 RetroStage Computing
-(c) 2019
+(c) 2022
 -------------------------------------------------------
 -------------------------------------------------------
