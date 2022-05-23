@@ -2,6 +2,25 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.3
+----------------------------
+NES:
+- Fixed mapper 206 mirror selection
+
+SNES:
+- Fixed ROM header error
+- Fixed error when no internal header is found, can now manually assign HiROM/LoROM mapping.
+- Fixed SRAM error that was affecting some Player's Choice versions of games
+
+TG16/PCE:
+- Auto-region patching added
+- HuCard dumping support (except SF2)
+- Writing support enabled for upcoming Turbo Blaster HuCards
+
+N64:
+- GameShark support added (in Misc. tab)
+
+----------------------------
 Version 2.1.2
 ----------------------------
 NEW NES Mappers added:
