@@ -2,6 +2,18 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.3b
+----------------------------
+
+- Added auto-padding to fix N64 ROM hacks that use non-standard sizes.
+
+----------------------------
+Version 2.1.3a
+----------------------------
+
+- Fix for SNES SRAM writing to SNES Blasters, where writing to games like FFV gave a size mismatch error.
+
+----------------------------
 Version 2.1.3
 ----------------------------
 NES:
