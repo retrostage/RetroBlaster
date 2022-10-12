@@ -2,6 +2,14 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.3c
+----------------------------
+
+- Added auto-detection for Turbo Grafx 16 and PCE dumping.
+- Added NES MMC5 ROM dumping support
+- minor bug fixes
+
+----------------------------
 Version 2.1.3b
 ----------------------------
 
