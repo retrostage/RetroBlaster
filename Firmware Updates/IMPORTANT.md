@@ -4,3 +4,5 @@ Check what hardware revision you have BEFORE downloading a firmware update. Choo
 shipped back to RetroStage to fix.
 
 The hardware version is always written at the top-right corner on the RetroBlaster circuit board itself.
+
+[![differences.jpg](https://i.postimg.cc/tgSP7cVy/differences.jpg)](https://postimg.cc/gwhrTNDB)
