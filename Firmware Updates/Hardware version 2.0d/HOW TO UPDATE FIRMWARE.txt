@@ -7,7 +7,7 @@ In order to successfully update the firmware, you first need to get the programm
 	1) remove any cartridge adapters from the slots
 	2) make sure the switch on the programmer is set to 5V (if that doesn't work, use 3V mode instead).
 	3) press the DFU button on the programmer. You should hear Windows 	"duh duh" sound. It may take a few presses if it doesn't work 	immediately.
-	4a) check your device manager for "Atmel USB Devices" and/or 	"AT90USB128".
+	4a) check your device manager for "Atmel USB Devices" and/or 	"AT90USB64".
 	or
 	4b) if that doesn't show up, install the driver for it - drivers 		are found in the 'drivers' folder of the RetroBlaster directory.
 
