@@ -20,7 +20,7 @@ The hardware version is always written at the top-right corner on the RetroBlast
 
 
 
-/n
+---------    
 
 **FOR WINDOWS 10 USERS**
 
@@ -29,7 +29,7 @@ This will fix the USB descriptor error that some users were seeing, and it seems
 An alternate download link here: https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFix.bat?dl=0
 
 
-
+---------
 
 **DOWNLOADS and TUTORIALS**
 
