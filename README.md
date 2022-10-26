@@ -20,8 +20,10 @@ The hardware version is always written at the top-right corner on the RetroBlast
 
 
 
+/n
 
 **FOR WINDOWS 10 USERS**
+
 If you're on Windows 10, and have the 2.0D hardware revision of the RetroBlaster, you will need to download the usbFix.bat program and run it as Administrator (right click the file and select Run as administrator). Follow the prompts.
 This will fix the USB descriptor error that some users were seeing, and it seems to be specific to Windows 10.
 An alternate download link here: https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFix.bat?dl=0
