@@ -36,7 +36,7 @@ An alternate download link here: https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFi
 N64 SRAM save convertor (converts cartridge SRAM save files from RetroBlaster dumps into emulator compatible .sra files): https://www.dropbox.com/s/99jvh3e5mj08onw/ED64-Saveswap.zip?dl=0
 
 
-RetroBlaster tutorial (new version coming soon!) : https://www.dropbox.com/s/e2k1rzlml3i5wif/RetroStage-RetroBlaster.pdf?dl=0
+RetroBlaster tutorial (also on this page above) : https://www.dropbox.com/s/ay9qkd4f490j0sc/RetroBlaster%20User%20Guide.pdf?dl=0
 
 Firmware updating YouTube tutorial : https://www.youtube.com/watch?v=4ylNR73qHHQ
 
