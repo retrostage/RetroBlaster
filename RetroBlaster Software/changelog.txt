@@ -2,6 +2,23 @@ RetroBlaster 2.0 Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.4
+----------------------------
+
+NEW (REQUIRES firmware 2.8 or higher):
+
+- NES Discrete Blaster Pro support - supports NES Maker games!
+- New NES MMC Blaster Lite support
+- NES MMC6 ROM dump and full SRAM support
+- GBA EEPROM (all types) dump/write support
+- GBA Flash (all types) dump/write support
+
+FIXES:
+
+- SNES Header fix - should have fixed games like Contra 3 not being recognized.
+- Fixed USB hanging issue when running RetroBlaster from Start menu on Windows 10.
+
+----------------------------
 Version 2.1.3c
 ----------------------------
 
