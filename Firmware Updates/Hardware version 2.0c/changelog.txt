@@ -2,6 +2,17 @@ RetroBlaster Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 2.8
+----------------------------
+- Added GBA EEPROM/Flash support
+- NES MMC6 support
+- NES MMC Blaster Lite and NES Discrete Blaster Pro support
+
+- Turbo Blaster Flash ID fix - will not be able to write on older firmware!
+
+- Fix Cybernoid error, now flashes properly to NES Blaster Lite CNROM boards
+
+----------------------------
 Version 2.7
 ----------------------------
 - Fixed an intermittent N64 Blaster issue where the CIC type wasn't being changed when writing a game.
@@ -74,6 +85,6 @@ Version 2.0b
 -------------------------------------------------------
 -------------------------------------------------------
 RetroStage Computing
-(c) 2019
+(c) 2022
 -------------------------------------------------------
 -------------------------------------------------------
