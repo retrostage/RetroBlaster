@@ -2,6 +2,11 @@ RetroBlaster Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 2.8a
+----------------------------
+- fixed NES dumping timing, fixes some problematic games like Dragon Warrior
+
+----------------------------
 Version 2.8
 ----------------------------
 - Added GBA EEPROM/Flash support
