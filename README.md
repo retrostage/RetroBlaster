@@ -38,6 +38,6 @@ N64 SRAM save convertor (converts cartridge SRAM save files from RetroBlaster du
 
 RetroBlaster tutorial (also on this page above) : https://www.dropbox.com/s/ay9qkd4f490j0sc/RetroBlaster%20User%20Guide.pdf?dl=0
 
-Firmware updating YouTube tutorial : https://www.youtube.com/watch?v=4ylNR73qHHQ
+Firmware updating YouTube tutorial (outdated, see user guide for newest): https://www.youtube.com/watch?v=4ylNR73qHHQ
 
 How to remove cartridge adapters safely (without bending pins) : https://www.youtube.com/watch?v=ztO-3DqHu1M
