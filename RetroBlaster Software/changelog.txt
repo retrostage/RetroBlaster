@@ -1,5 +1,19 @@
-RetroBlaster 2.0 Software Changelog
+RetroBlaster Software Changelog
 ----------------------------
+
+----------------------------
+Version 2.1.5
+----------------------------
+
+NEW:
+
+- Added byte-order selection for N64 game dumping. Byte order changes depending on file extension selected. ".z64" is big endian (default), and ".n64" is little endian.
+
+FIXES:
+
+- fixed MMC Blaster Lite error when writing MMC3 games that were smaller than 256KB.
+- fixed an issue when writing Perfect Dark to the N64 Blasters, where the wrong save type was being selected.
+- fixed an issue where the file size displayed was incorrect, when doing a manual N64 game dump.
 
 ----------------------------
 Version 2.1.4
@@ -8,7 +22,7 @@ Version 2.1.4
 NEW (REQUIRES firmware 2.8 or higher):
 
 - NES Discrete Blaster Pro support - supports NES Maker games!
-- New NES MMC Blaster Lite support
+- NES MMC Blaster Lite support
 - NES MMC6 ROM dump and full SRAM support
 - GBA EEPROM (all types) dump/write support
 - GBA Flash (all types) dump/write support
@@ -202,6 +216,6 @@ Version 2.0
 -------------------------------------------------------
 -------------------------------------------------------
 RetroStage Computing
-(c) 2020
+(c) 2023
 -------------------------------------------------------
 -------------------------------------------------------
