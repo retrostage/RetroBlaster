@@ -2,6 +2,25 @@ RetroBlaster Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.5a
+----------------------------
+
+NEW:
+
+- Added "Help" menu that has a direct link to 
+
+the RetroBlaster User Guide wiki
+
+FIXES:
+
+- Fixed read error timeout glitch when 
+
+writing games to the NES MMC Blaster Lite
+- Fixed write errors when trying to write 
+
+SRAM to SuperFX games like Yoshi's Island
+
+----------------------------
 Version 2.1.5
 ----------------------------
 
