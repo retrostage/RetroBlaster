@@ -2,6 +2,11 @@ RetroBlaster Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 2.8b
+----------------------------
+- added support for new flash memory brand being used on Discrete Blaster Pro (among others) as of April 2023
+
+----------------------------
 Version 2.8a
 ----------------------------
 - fixed NES dumping timing, fixes some problematic games like Dragon Warrior
