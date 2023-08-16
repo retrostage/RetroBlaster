@@ -2,6 +2,29 @@ RetroBlaster Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.1.6
+----------------------------
+
+NEW:
+
+- Autodetect NES games when dumping (WIP)
+	This scans an internal db and compares a checksum against the first few KB of the inserted NES game. If it matches, then it knows PRG/CHR/RAM/Mapper data for 
+	game. Can use file "nesdb.txt" in RetroBlaster folder to add custom games or games not in db already, formatting MUST MATCH EXAMPLE IN TEXT FILE - it goes CRC32 of 
+        first 4KB PRG,Mapper number, PRG size(in bytes), CHR size(in bytes), does it use battery (1 for yes, 0 for no), mirroring (bit[0] of byte[6] in INES header), and game 
+        name.
+
+- Automatic GBA file size detection
+- Added option for manually choosing save type for N64 games when dumping - fixes some games.
+
+- Automatic GBA ROM patching (WIP) - this feature is used by GBA Blasters so that games that use EEPROM or Flash now save properly without patching beforehand!
+- Added a "Write Save" button for writing downloaded/backed up save files to the GBA Blaster - works with most emulator (.sav) save files!
+
+CHANGES:
+
+- Moved "Check Firmware" button to the "About" menu.
+- Minor GUI changes
+
+----------------------------
 Version 2.1.5a
 ----------------------------
 
