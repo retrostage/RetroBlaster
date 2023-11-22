@@ -1,11 +1,9 @@
 # RetroBlaster
 Software and firmware zip files for the RetroBlaster, RetroBlaster 2.0, and the RetroBlaster Mini programmer/dumper.
 <br />
-
-The RetroBlaster 2.0 is discontinued, but the RetroBlaster Mini is now available at the [RetroStage Store!](https://retrostage.net/?product=retroblaster-mini-programmer-dumper)
+The RetroBlaster 2.0 is discontinued, but the **RetroBlaster Mini** is now available at the [RetroStage Store!](https://retrostage.net/?product=retroblaster-mini-programmer-dumper)
 <br />
-
-Be sure to visit the Wiki for the User Guide! https://github.com/retrostage/RetroBlaster/wiki
+Be sure to visit the [Wiki for the User Guide!](https://github.com/retrostage/RetroBlaster/wiki)
 <br />
 <br />
 The most recent software and firmware versions will be posted here. Other download links are available on the bottom of this readme.
@@ -25,11 +23,11 @@ The hardware version is always written at the top-right corner on the RetroBlast
 
 ---------    
 
-**FOR WINDOWS 10 USERS on RetroBlaster 2.0 hardware**
+**FOR WINDOWS 10 USERS on RetroBlaster 2.0D hardware**
 
-If you're on Windows 10, and have the RetroBlaster 2.0D hardware revision of the RetroBlaster, you will need to download the usbFix.bat program and run it as Administrator (right click the file and select Run as administrator). Follow the prompts.
+If you're on Windows 10, and have the RetroBlaster 2.0D hardware revision of the RetroBlaster, you will need to download the usbFix.bat program and run it as Administrator (right click the file and select Run as administrator). Follow the prompts. This file is located in the Hardware 2.0D firmware folder on this repo.
 This will fix the USB descriptor error that some users were seeing, and it seems to be specific to Windows 10.
-An alternate download link here: https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFix.bat?dl=0
+[An alternate download link here](https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFix.bat?dl=0)
 
 
 ---------
