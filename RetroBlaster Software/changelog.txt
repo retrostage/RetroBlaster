@@ -2,6 +2,33 @@ RetroBlaster Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.2.0
+----------------------------
+
+**IMPORTANT** 
+This version (or later) is required by the RetroBlaster Mini. The RetroBlaster Mini will not be recognized by any version before this release.
+
+NEW for RetroBlaster Mini:
+
+- File menu has "Update Firmware" feature for easy updating on the RetroBlaster Mini. This feature is NOT compatible with the RetroBlaster 2.0.
+
+- All routines have been modified to support the RetroBlaster Mini, while keeping compatibility with the original RetroBlaster 2.0.
+
+- SA-1, CX4, and SDD-1 support have been added for SNES dumping with the RetroBlaster Mini. These are not compatible with the RetroBlaster 2.0 due to hardware limitations.
+
+
+NEW for all models:
+
+- Support added for new SNES Blaster and Sega Blaster products.
+
+
+Bug fixes:
+
+- adjusted MMC5 dumping routine, should fix CHR dumping errors
+- fixed Sega Genesis issue where SRAM size was detected incorrectly
+- fixed an issue where the software could hang after failing to dump a NES game
+
+----------------------------
 Version 2.1.6
 ----------------------------
 
