@@ -1,14 +1,17 @@
 # RetroBlaster
-Software and firmware zip files for the RetroBlaster cart programmer/dumper
-
-The most recent versions, as well as old archived versions, will be posted here. Other download links are available on the bottom of this readme.
+Software and firmware zip files for the RetroBlaster, RetroBlaster 2.0, and the RetroBlaster Mini programmer/dumper.
+<br />
+Be sure to visit the Wiki for the User Guide! https://github.com/retrostage/RetroBlaster/wiki
+<br />
+<br />
+The most recent software and firmware versions will be posted here. Other download links are available on the bottom of this readme.
 
 For software zip files, download the latest release from the Releases section on the right.
 
 For firmware hex files, click on the link for the firmware hex file, and on the right side of the screen should be a button that says "RAW". Right-click that button and select "Save link as..". 
 
-
-
+<br />
+<br />
 
 **IMPORTANT!!**
 
@@ -18,13 +21,13 @@ The hardware version is always written at the top-right corner on the RetroBlast
 
 [![differences.jpg](https://i.postimg.cc/tgSP7cVy/differences.jpg)](https://postimg.cc/gwhrTNDB)
 
-
-
+<br />
+<br />
 ---------    
 
-**FOR WINDOWS 10 USERS**
+**FOR WINDOWS 10 USERS on RetroBlaster 2.0 hardware**
 
-If you're on Windows 10, and have the 2.0D hardware revision of the RetroBlaster, you will need to download the usbFix.bat program and run it as Administrator (right click the file and select Run as administrator). Follow the prompts.
+If you're on Windows 10, and have the RetroBlaster 2.0D hardware revision of the RetroBlaster, you will need to download the usbFix.bat program and run it as Administrator (right click the file and select Run as administrator). Follow the prompts.
 This will fix the USB descriptor error that some users were seeing, and it seems to be specific to Windows 10.
 An alternate download link here: https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFix.bat?dl=0
 
@@ -36,8 +39,8 @@ An alternate download link here: https://www.dropbox.com/s/0eo69ttftxd3u0n/usbFi
 N64 SRAM save convertor (converts cartridge SRAM save files from RetroBlaster dumps into emulator compatible .sra files): https://www.dropbox.com/s/99jvh3e5mj08onw/ED64-Saveswap.zip?dl=0
 
 
-RetroBlaster tutorial (also on this page above) : https://www.dropbox.com/s/ay9qkd4f490j0sc/RetroBlaster%20User%20Guide.pdf?dl=0
+RetroBlaster Wiki (User Guide): https://github.com/retrostage/RetroBlaster/wiki
 
-Firmware updating YouTube tutorial (outdated, see user guide for newest): https://www.youtube.com/watch?v=4ylNR73qHHQ
+Firmware updating YouTube tutorial for RetroBlaster 2.0 (outdated, see Wiki for newest): https://www.youtube.com/watch?v=4ylNR73qHHQ
 
-How to remove cartridge adapters safely (without bending pins) : https://www.youtube.com/watch?v=ztO-3DqHu1M
+How to remove cartridge adapters safely on RetroBlaster 2.0 (without bending pins) : https://www.youtube.com/watch?v=ztO-3DqHu1M
