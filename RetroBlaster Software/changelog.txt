@@ -2,6 +2,23 @@ RetroBlaster Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.2.1
+----------------------------
+
+**IMPORTANT** 
+All users with a RetroBlaster Mini should update to this version.
+
+Fixes for RetroBlaster Mini:
+
+- MMC1 games that don't use CHR-ROM now dump correctly
+- MMC3 save dumping/writing
+- MMC2/4 ROM dumping
+
+Changes for RetroBlaster 2.0 users:
+
+- removed Atmel Flip program + 2.0 drivers from RetroBlaster software folder, direct download link will now be available from RetroBlaster 2.0 Wiki page.
+
+----------------------------
 Version 2.2.0
 ----------------------------
 
