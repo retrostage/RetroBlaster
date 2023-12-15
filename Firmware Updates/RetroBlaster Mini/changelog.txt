@@ -1,0 +1,28 @@
+RetroBlaster Mini Firmware Changelog
+----------------------------
+
+----------------------------
+Version 1.01
+----------------------------
+
+NEW:
+
+- NES Maker hardware support - read and write games using official and 3rd party NES Maker / Mapper 30 hardware.
+
+FIXED:
+
+- N64 Blasters write errors
+- NES timing causing some games to not dump correctly - mainly Codemasters games like Dizzy.
+
+----------------------------
+Version 1.00
+----------------------------
+- initial firmware release
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+RetroStage Computing
+(c) 2023
+-------------------------------------------------------
+-------------------------------------------------------
