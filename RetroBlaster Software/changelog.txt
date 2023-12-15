@@ -1,5 +1,22 @@
 RetroBlaster Software Changelog
 ----------------------------
+----------------------------
+Version 2.2.2
+----------------------------
+
+Fixes for RetroBlaster Mini:
+
+- fixed N64 Blaster issue where the configuration step wasn't happening.
+
+- fixed SNES issue where software stalled when trying to dump SRAM from games that use a SA-1 enhancement chip.
+
+- fixed bankswitch issue that was affecting some NES games that use discrete mappers, like UNROM.
+
+New features:
+
+- NES Maker support has been added! You can now read and write 3rd party NES Maker hardware (requires firmware 1.01 or higher for RetroBlaster Mini, and firmware 2.8C or higher on RetroBlaster 2.0)
+
+- Added the ability to force the ROM region (PAL or NTSC) when writing games to N64 Blasters. This should allow some applications like the N64 GBC emulator to work on PAL N64 consoles now. 
 
 ----------------------------
 Version 2.2.1
