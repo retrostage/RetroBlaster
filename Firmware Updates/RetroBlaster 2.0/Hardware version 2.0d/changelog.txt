@@ -1,5 +1,14 @@
 RetroBlaster Firmware Changelog
 ----------------------------
+----------------------------
+Version 2.8c
+----------------------------
+- Added NES MAKER (mapper 30 / UNROM-512) support! You can now read/write any NES Maker-compatible hardware using the RetroBlaster 2.0.
+
+----------------------------
+Version 2.8a & 2.8b
+----------------------------
+- bugfixes
 
 ----------------------------
 Version 2.8
