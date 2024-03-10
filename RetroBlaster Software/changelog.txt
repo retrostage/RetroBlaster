@@ -1,6 +1,24 @@
 RetroBlaster Software Changelog
 ----------------------------
 ----------------------------
+Version 2.2.3
+----------------------------
+
+General fixes:
+
+- Fixed "Manual Dump Size" function for Sega Genesis/MD/32x games, can now enter desired ROM dump size
+
+- Fixed a "FlashROM not found" glitch on some N64 Blasters
+
+- Fixed "Failed to connect to RetroBlaster" error that would occur when trying to dump/write a NES game right after a failed attempt
+
+Fixes for RetroBlaster Mini:
+
+- Fixed a timing error that intermittently happened with configuring all Blaster cartridges on RetroBlaster Mini - requires RB Mini firmware update to v1.03!
+
+- Minor bug fixes
+
+----------------------------
 Version 2.2.2
 ----------------------------
 
