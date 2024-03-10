@@ -2,6 +2,18 @@ RetroBlaster Mini Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 1.03
+----------------------------
+
+(skipped v1.02 as it wasn't officially released - rolled into 1.03)
+
+FIXED:
+
+- N64 Blaster intermittent "FlashROM not found" error fixed
+- NES, SNES, SEGA, N64 Blasters writing fine but don't boot in console. Found bug that was happening during configuring the Blaster, fixed now - requires software 2.2.3 or higher.
+- Misc timing fixes
+
+----------------------------
 Version 1.01
 ----------------------------
 
