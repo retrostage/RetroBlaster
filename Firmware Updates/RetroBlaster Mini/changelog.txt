@@ -2,6 +2,13 @@ RetroBlaster Mini Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 1.04
+----------------------------
+FIXED:
+
+- Intermittent stalling of writes when writing to MMC1 or MMC2/4 Blasters.
+
+----------------------------
 Version 1.03
 ----------------------------
 
