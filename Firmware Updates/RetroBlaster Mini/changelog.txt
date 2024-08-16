@@ -2,6 +2,17 @@ RetroBlaster Mini Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 1.05
+----------------------------
+IMPROVEMENTS:
+- Increased write speed of SNES Blasters by 34%.  Requires software v2.2.4 or higher
+- Increased write speed of Sega Blasters by 12%.  Requires software v2.2.4 or higher
+
+FIXED:
+
+- Fixed SXROM/SUROM writing for MMC Blaster Lite carts. Requires software v2.2.4 or higher
+
+----------------------------
 Version 1.04
 ----------------------------
 FIXED:
