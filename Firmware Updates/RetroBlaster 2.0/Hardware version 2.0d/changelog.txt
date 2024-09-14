@@ -1,6 +1,11 @@
 RetroBlaster Firmware Changelog
 ----------------------------
 ----------------------------
+Version 2.8d
+----------------------------
+- Fixed a bug where GBC games larger than 4MByte would fail to write properly.
+
+----------------------------
 Version 2.8c
 ----------------------------
 - Added NES MAKER (mapper 30 / UNROM-512) support! You can now read/write any NES Maker-compatible hardware using the RetroBlaster 2.0.
