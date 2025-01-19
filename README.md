@@ -3,12 +3,13 @@ Software and firmware zip files for the RetroBlaster, RetroBlaster 2.0, and the 
 <br />
 The original RetroBlaster and RetroBlaster 2.0 are discontinued, but the **RetroBlaster Mini** is now available at the [RetroStage Store!](https://retrostage.net/?product=retroblaster-mini-programmer-dumper)
 <br />
+<br />
 Be sure to visit the [Wiki for the User Guide!](https://github.com/retrostage/RetroBlaster/wiki)
 <br />
 <br />
 The most recent RetroBlaster software can be found in Releases, or [download directly here!](https://github.com/retrostage/RetroBlaster/releases/download/v2.2.4/RetroBlaster.2.2.4.zip)
 
-For firmware hex files, click on the link for the firmware hex file, and on the right side of the screen should be a button that says "RAW". Right-click that button and select "Save link as..". 
+[RetroBlaster Mini Current Firmware](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw105.bin)
 
 ---------
 **IMPORTANT!!**
