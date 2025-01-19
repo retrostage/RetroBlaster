@@ -7,11 +7,16 @@ The original RetroBlaster and RetroBlaster 2.0 are discontinued, but the **Retro
 Be sure to visit the [Wiki for the User Guide!](https://github.com/retrostage/RetroBlaster/wiki)
 <br />
 <br />
+
 [Download RetroBlaster Software (latest)](https://github.com/retrostage/RetroBlaster/releases/download/v2.2.4/RetroBlaster.2.2.4.zip)
 
 [Download RetroBlaster Mini Firmware (latest)](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw105.bin)
 
 ---------
+RetroBlaster 2.0C or 2.0D Latest Firmware Downloads:
+[2.0D firmware](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0d/RetroBlaster2.8d_hw2.0d.hex)
+[2.0C firwmare](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0c/RetroBlaster2.8d_hw2.0c.hex)
+
 **IMPORTANT!!**
 
 For original RetroBlaster, RetroBlaster 2.0C or 2.0D users, check what hardware revision you have BEFORE downloading a firmware update. Choosing the wrong file could result in a bricked device that will need to be shipped back to RetroStage to fix.
