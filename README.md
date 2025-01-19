@@ -7,13 +7,14 @@ The original RetroBlaster and RetroBlaster 2.0 are discontinued, but the **Retro
 Be sure to visit the [Wiki for the User Guide!](https://github.com/retrostage/RetroBlaster/wiki)
 <br />
 <br />
+DOWNLOAD LATEST VERSIONS:
 
 [Download RetroBlaster Software (latest)](https://github.com/retrostage/RetroBlaster/releases/download/v2.2.4/RetroBlaster.2.2.4.zip)
 
 [Download RetroBlaster Mini Firmware (latest)](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw105.bin)
 
 ---------
-RetroBlaster 2.0C or 2.0D Latest Firmware Downloads (right-click and "save link as"):
+RetroBlaster 2.0C or 2.0D Latest Firmware Downloads ONLY (right-click and "save link as"):
 
 [Download RetroBlaster 2.0D firmware](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0d/RetroBlaster2.8d_hw2.0d.hex)
 
@@ -38,11 +39,9 @@ This will fix the USB descriptor error that some users were seeing, and it seems
 
 ---------
 
-**DOWNLOADS and TUTORIALS**
+**OTHER DOWNLOADS and TUTORIALS**
 
 N64 SRAM save convertor (converts cartridge SRAM save files from RetroBlaster dumps into emulator compatible .sra files): https://www.dropbox.com/s/99jvh3e5mj08onw/ED64-Saveswap.zip?dl=0
-
-RetroBlaster Wiki (User Guide): https://github.com/retrostage/RetroBlaster/wiki
 
 Firmware updating YouTube tutorial for RetroBlaster 2.0 (outdated, see Wiki for newest): https://www.youtube.com/watch?v=4ylNR73qHHQ
 
