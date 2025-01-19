@@ -13,9 +13,11 @@ Be sure to visit the [Wiki for the User Guide!](https://github.com/retrostage/Re
 [Download RetroBlaster Mini Firmware (latest)](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw105.bin)
 
 ---------
-RetroBlaster 2.0C or 2.0D Latest Firmware Downloads:
-[2.0D firmware](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0d/RetroBlaster2.8d_hw2.0d.hex)
-[2.0C firwmare](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0c/RetroBlaster2.8d_hw2.0c.hex)
+RetroBlaster 2.0C or 2.0D Latest Firmware Downloads (right-click and "save link as"):
+
+[Download RetroBlaster 2.0D firmware](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0d/RetroBlaster2.8d_hw2.0d.hex)
+
+[Download RetroBlaster 2.0C firmware](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%202.0/Hardware%20version%202.0c/RetroBlaster2.8d_hw2.0c.hex)
 
 **IMPORTANT!!**
 
