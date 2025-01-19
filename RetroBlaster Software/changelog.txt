@@ -1,5 +1,32 @@
 RetroBlaster Software Changelog
 ----------------------------
+
+----------------------------
+Version 2.2.4
+----------------------------
+NEW:
+
+Added NES mapper ROM dumping support for mappers:
+19 (Namco129/163), 21-26 (VRC2, VRC4, VRC6), 69 (FME-7/Sunsoft), 85 (VRC7),
+162/163 (FF7 demake & other Nanjing games), 470 (retro-bit)
+
+Added an "Auto-Update" option in the Help menu, which will check for new software updates automatically and allow you to download them right from the RetroBlaster program (uncheck "Auto-update" in Help menu to turn off)
+
+On the RetroBlaster Mini, when you click "Check Version" in the About menu, it will now also check if you're running the most recent firmware, and prompt you to update if a newer version is available (uncheck "Auto-update" in Help menu to turn off)
+
+IMPROVEMENTS:
+
+Increased SNES Blaster write speed by 34% on RetroBlaster Mini (requires firmware 1.05 or higher)
+Increased Sega Blaster write speed by 12% on RetroBlaster Mini
+Automatic game size padding added to Sega Genesis/MD to better support homebrew on the Sega Blaster
+N64 CIC adjusted to allow games/homebrew built using libdragon to boot on N64 Blasters
+FIXES:
+
+NES SXROM/SUROM dumping fixed
+Fixed NES SXROM/SUROM writing issue that was affecting RetroBlaster Mini (requires firmware update to v1.05 or higher)
+Fixed a bug in NES NROM writing that was introduced in 2.2.0
+Fixed bug in GBA SRAM writing that was affecting RB Minis
+
 ----------------------------
 Version 2.2.3
 ----------------------------
