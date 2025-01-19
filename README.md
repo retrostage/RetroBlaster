@@ -1,5 +1,5 @@
 # RetroBlaster
-Software and firmware zip files for the RetroBlaster, RetroBlaster 2.0, and the RetroBlaster Mini programmer/dumper.
+Software and firmware files for the RetroBlaster, RetroBlaster 2.0, and the RetroBlaster Mini programmer/dumper.
 <br />
 The original RetroBlaster and RetroBlaster 2.0 are discontinued, but the **RetroBlaster Mini** is now available at the [RetroStage Store!](https://retrostage.net/?product=retroblaster-mini-programmer-dumper)
 <br />
