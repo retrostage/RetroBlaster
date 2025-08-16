@@ -2,6 +2,22 @@ RetroBlaster Mini Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 1.06
+----------------------------
+
+NEW:
+- GB Camera support
+- Large games like SSF2, Demons of Asteborg, etc, dump support
+
+Improvements:
+- N64 Blaster write speed increased by 10%
+- Improved ROM size detection for homebrew games that use invalid/odd ROM headers on Sega MD/GEN
+
+Bug fixes:
+- Sega MD/GEN FRAM save dumping/writing should work now
+- misc stability fixes
+
+----------------------------
 Version 1.05
 ----------------------------
 IMPROVEMENTS:
@@ -56,3 +72,4 @@ RetroStage Computing
 (c) 2023
 -------------------------------------------------------
 -------------------------------------------------------
+
