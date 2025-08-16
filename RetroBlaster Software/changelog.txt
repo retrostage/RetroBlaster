@@ -2,6 +2,27 @@ RetroBlaster Software Changelog
 ----------------------------
 
 ----------------------------
+Version 2.2.5
+----------------------------
+
+NEW:
+
+- GB Camera save reading/writing support
+- SF2 dumping for PCE/TG16
+- Large game (like Demons of Asteborg and SSF2) dump support for Sega MD/GEN
+- "Force CIC" mode added for N64, useful for homebrew dev
+
+BUG FIXES:
+
+- fixed GBA size detection bug, fixes games like Dr Mario/Puzzle League and others
+- fixed N64 size detection, games like Mario Golf now show correct sizes when dumping
+- fixed SA-1 SRAM dumping to proper banks
+- fixed NES MMC1 dumping bug introduced in 2.2.4
+- fixed incorrect N64 CIC detection for homebrew games made with LibDragon
+- fixed bug in N64 manual dumping where size always showed zero
+- misc stability improvements
+
+----------------------------
 Version 2.2.4
 ----------------------------
 NEW:
@@ -367,3 +388,4 @@ RetroStage Computing
 (c) 2023
 -------------------------------------------------------
 -------------------------------------------------------
+
