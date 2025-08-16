@@ -9,7 +9,7 @@ Be sure to visit the [Wiki for the User Guide!](https://github.com/retrostage/Re
 <br />
 DOWNLOAD LATEST VERSIONS:
 
-[Download RetroBlaster Software (latest)](https://github.com/retrostage/RetroBlaster/releases/download/v2.2.4/RetroBlaster.2.2.5.zip)
+[Download RetroBlaster Software (latest)](https://github.com/retrostage/RetroBlaster/releases/download/v2.2.5/RetroBlaster.2.2.5.zip)
 
 [Download RetroBlaster Mini Firmware (latest)](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw106.bin)
 
