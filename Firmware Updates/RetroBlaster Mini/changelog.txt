@@ -2,6 +2,14 @@ RetroBlaster Mini Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 1.07
+----------------------------
+
+- Fixed GB Blaster writing bug introduced in 1.06
+- Fixed support for 2025 model of MMC Blaster Lites, fixes "NES Blaster not found" errors
+- Stability fixes
+
+----------------------------
 Version 1.06
 ----------------------------
 
@@ -72,4 +80,5 @@ RetroStage Computing
 (c) 2023
 -------------------------------------------------------
 -------------------------------------------------------
+
 
