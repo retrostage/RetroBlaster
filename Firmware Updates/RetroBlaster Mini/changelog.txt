@@ -2,6 +2,12 @@ RetroBlaster Mini Firmware Changelog
 ----------------------------
 
 ----------------------------
+Version 1.08
+----------------------------
+- fixed SNES SRAM bug that affected some HiROM games
+- stability improvements
+
+----------------------------
 Version 1.07
 ----------------------------
 
@@ -80,5 +86,6 @@ RetroStage Computing
 (c) 2023
 -------------------------------------------------------
 -------------------------------------------------------
+
 
 
