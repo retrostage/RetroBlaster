@@ -11,7 +11,7 @@ DOWNLOAD LATEST VERSIONS:
 
 [Download RetroBlaster Software (latest)](https://github.com/retrostage/RetroBlaster/releases/download/v2.2.7/RetroBlaster.2.2.7.zip)
 
-[Download RetroBlaster Mini Firmware (latest)](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw106.bin)
+[Download RetroBlaster Mini Firmware (latest)](https://github.com/retrostage/RetroBlaster/raw/refs/heads/master/Firmware%20Updates/RetroBlaster%20Mini/RetroBlaster_Mini_fw108.bin)
 
 ---------
 RetroBlaster 2.0C or 2.0D Latest Firmware Downloads ONLY (right-click and "save link as"):
