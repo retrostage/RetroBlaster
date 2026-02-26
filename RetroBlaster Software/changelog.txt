@@ -1,5 +1,24 @@
 RetroBlaster Software Changelog
 ----------------------------
+----------------------------
+Version 2.2.7
+----------------------------
+
+NEW:
+- Massive update for NES dumping! You can now create your own scripts that can be used to dump games that use mappers that aren't supported natively. Also supports dumping SRAM.
+
+FIX:
+- Added support for N64 homebrew header that specifies save type, so 4K or 16K EEPROM should set automatically when writing a libdragon game to the N64 Blaster. Also added a 'Force EEP' option, if for some reason the game requires a specific EEPROM save type but doesn't have the proper byte set in the ROM header, you can manually force a specific EEPROM size.
+
+
+----------------------------
+Version 2.2.6
+----------------------------
+
+- Added DIP switch settings for NES-EVENT Blaster cartridge
+- Added VRC1, 2, and 4 support for VRC Blaster cartridge
+- SNES bug fixes that affected SRAM
+- stability improvements
 
 ----------------------------
 Version 2.2.5
@@ -7,7 +26,7 @@ Version 2.2.5
 
 NEW:
 
-- GB Camera save reading/writing support
+- GB Camera save reading/writing support for RetroBlaster Mini
 - SF2 dumping for PCE/TG16
 - Large game (like Demons of Asteborg and SSF2) dump support for Sega MD/GEN
 - "Force CIC" mode added for N64, useful for homebrew dev
@@ -388,4 +407,5 @@ RetroStage Computing
 (c) 2023
 -------------------------------------------------------
 -------------------------------------------------------
+
 
