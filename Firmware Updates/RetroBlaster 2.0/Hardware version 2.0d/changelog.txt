@@ -1,6 +1,14 @@
 RetroBlaster Firmware Changelog
 ----------------------------
 ----------------------------
+Version 2.9
+----------------------------
+- Added GB Camera support - requires software 2.2.5 or higher
+- Added support for MMC Blaster Lites for units sold since Nov 2025
+- Added support for Custom Mapper Scripts that was added in software 2.2.7
+- General system stability improvements
+
+----------------------------
 Version 2.8d
 ----------------------------
 - Fixed a bug where GBC games larger than 4MByte would fail to write properly.
@@ -103,3 +111,4 @@ RetroStage Computing
 (c) 2019
 -------------------------------------------------------
 -------------------------------------------------------
+
